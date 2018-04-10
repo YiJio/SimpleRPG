@@ -585,7 +585,6 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     Collab: 1
-    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 8911926c-a3fd-4d29-89b6-348133ec16a9
